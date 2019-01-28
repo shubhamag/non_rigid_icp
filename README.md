@@ -1,2 +1,2 @@
 # non_rigid_icp
-Modified version of non-rigid Iterative closest point algorithm for fitting to noisy point clouds
+A modified, robust version of non-rigid Iterative closest point algorithm for deforming meshes to fit noisy point clouds
