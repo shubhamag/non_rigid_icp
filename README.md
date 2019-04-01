@@ -1,4 +1,4 @@
-# non_rigid_icp
+# Non-rigid ICP (Iterative Closest Points)
 A modified, robust version of non-rigid Iterative closest point algorithm for deforming meshes to fit noisy point clouds
 
 Also contains nicp_meshes.py, which registers a template to another mesh, a slightly improved version of the method proposed in:
